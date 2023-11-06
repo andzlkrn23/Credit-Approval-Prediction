@@ -1,4 +1,6 @@
-# Credit-Approval-Prediction
+# Paylater-Approval-Prediction
+
+![pict](Pict/Dashboard.png)
 
 Proyek ini bertujuan untuk mengembangkan model machine learning sederhana yang dapat memprediksi hasil persetujuan atau penolakan suatu pengajuan kredit. Dengan menggunakan metode Naive Bayes, model ini dianalisis berdasarkan hasil cross-validation, hyperparameter tuning, dan skor akurasi.
 
@@ -25,3 +27,5 @@ Kelebihan proyek ini melibatkan penerapan business knowledge dalam pemilihan fit
 - Dashboard: [Link Dashboard](https://lookerstudio.google.com/u/0/reporting/7ae4b1b7-b53e-4b32-a8af-35244aa2718c/page/qRwwC/edit)
 
 - Deployment Model: [Link Deployment Model](https://huggingface.co/spaces/Dzlkrn/ML2)
+
+![pict](Pict/Deployment.png)
