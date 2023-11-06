@@ -20,3 +20,8 @@ Data yang digunakan mencakup informasi seperti ;
 11. lokasi tempat tinggal
 
 Kelebihan proyek ini melibatkan penerapan business knowledge dalam pemilihan fitur atau data yang digunakan, dimana ilmu tersebut peneliti pelajari selama berkuliah terkait perbankan. Namun, masih terdapat kekurangan dalam akurasi model sehingga peneliti belum dapat mengimplementasikan model tersebut di perusahaan.
+
+
+- Dashboard: [Link Dashboard](https://lookerstudio.google.com/u/0/reporting/7ae4b1b7-b53e-4b32-a8af-35244aa2718c/page/qRwwC/edit)
+
+- Deployment Model: [Link Deployment Model](https://huggingface.co/spaces/Dzlkrn/ML2)
